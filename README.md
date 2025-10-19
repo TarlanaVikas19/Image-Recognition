@@ -4,6 +4,15 @@ This repository explores image recognition using Python and Jupyter Notebook, wi
 
 ---
 
+## 🎉 Hacktoberfest Participation
+
+This repo is open for Hacktoberfest 2025! We welcome contributions from developers of all skill levels. 
+
+Labels: `good first issue`, `help wanted`
+
+
+---
+
 ### 🚀 Project Objectives
 - ✅ Build a baseline image classification model using open datasets
 - 🔄 Integrate Kaggle API for automated dataset access
